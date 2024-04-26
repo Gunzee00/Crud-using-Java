@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projek akhir</string>
+    <string-array name="gender_array">
+        <item>Pilih</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+    <string name="placeholder_pilih">Pilih</string>
+</resources>
